@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! I'm Al-Mudhafar Laith <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
   <p>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
+  
   </p>
 
   <p><b>🎮 Future Game Architect | 🇮🇶 Based in Iraq | 💻 Tech Explorer</b></p>
