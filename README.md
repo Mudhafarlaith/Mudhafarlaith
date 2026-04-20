@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! I'm Al-Mudhafar Laith <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
+  <h1>Hi there! I'm Mudhafar Laith <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
   <p>
   
   </p>
